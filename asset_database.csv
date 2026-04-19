@@ -1,0 +1,4 @@
+Asset_ID,Component_Name,Installation_Date,Last_Maintenance,Health_Score
+RK-NODE-001,Power_Relay_Alpha,2026-01-15,2026-04-01,98
+RK-NODE-002,Main_Transformer,2025-11-20,2026-03-10,92
+RK-NODE-003,Motor_Controller,2026-02-10,2026-02-10,100
